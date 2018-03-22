@@ -28,10 +28,10 @@
                     <target>https://api.cronapp.io</target>
                     <org>cronapptreina@gmail.com</org>
                     <space>develop</space>
-                    <appname>postosocial</appname>
-                    <url>postosocial.cronapp.io</url>
+                    <appname>postousuario</appname>
+                    <url>postousuario.cronapp.io</url>
                     <instances>1</instances>
-                    <memory>768</memory>
+                    <memory>1024</memory>
                     <username/>
                     <password/>
                 </configuration>

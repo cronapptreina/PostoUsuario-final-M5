@@ -1,4 +1,4 @@
-# Aplicação Posto Usuário (após final do módulo 4) 
+# Aplicação Posto Usuário (após final do módulo 5 - Autenticação) 
 
 Aplicação Posto (para uso dos donos de carros) que acessa a aplicação multi-inquilino para cadastro de postos criada durante o módulo 2 do Treinamento Avançado do CronApp
 
@@ -6,5 +6,5 @@ Aplicação Posto (para uso dos donos de carros) que acessa a aplicação multi-
 
 1. Entre em ide.cronapp.io
 2. Crie um novo projeto Web com a opção 'O projeto está sob controle de versão?'
-3. Informe a URL para importar https://github.com/cronapptreina/PostoUsuario-final-M4
+3. Informe a URL para importar https://github.com/cronapptreina/PostoUsuario-final-M5
 4. Clique em Executar (seta verde)
